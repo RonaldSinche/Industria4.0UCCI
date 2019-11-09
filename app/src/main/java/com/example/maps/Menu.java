@@ -10,7 +10,7 @@ import android.view.View;
 
 public class Menu extends AppCompatActivity implements View.OnClickListener {
 
-    CardView ponenteCardView, agendaCardView, qrCardView, mapsCardView;
+    CardView ponenteCardView, agendaCardView, qrCardView, mapsCardView, discursoCardView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
